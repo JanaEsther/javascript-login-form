@@ -1,6 +1,6 @@
-![](Vanilla-Login-Form-by-Jobsimulator.svg)
+# (Vanilla-Login-Form-by-Jobsimulator.svg)
 
-# JavaScript Login Form by Jobsimulator.Dev
+## JavaScript Login Form by Jobsimulator.Dev
 
 ![Discord](https://img.shields.io/discord/968893691769000027?color=7289da&label=Discord&logo=discord&logoColor=white&style=for-the-badge)
 
@@ -40,4 +40,3 @@ The best way to ask for help is to ask our Discord community.
 ## Want more challenges?
 
 Browse our [challenges](https://jobsimulator.dev/) and [join our Discord](https://discord.gg/6VsSMZaM7q) to get notified when new challenges are released.
-
